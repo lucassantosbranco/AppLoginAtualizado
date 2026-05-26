@@ -330,7 +330,7 @@ Este projeto é educacional e pode ser utilizado livremente para fins de aprendi
 
 ## 👨‍💻 Autor
 
-Desenvolvido como parte do curso de **Desenvolvimento Android** no SENAC.
+Desenvolvido como parte do curso de **Desenvolvimento Android** no UlbraSaoLucas.
 
 **Criado por:** Lucas Santos Branco  
 **Data:** 2026  
